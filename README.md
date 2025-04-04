@@ -1,1 +1,1 @@
-# earthquake_magnitude_homogenization
+# Python notebook for homogenizing magnitudes in an earthquake catalog
